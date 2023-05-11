@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "USB4510")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/USB4510.pretty")(options "")(descr ""))
+  (lib (name "PTS815")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/PTS815.pretty")(options "")(descr ""))
+  (lib (name "Skyworks")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/footprint/Skyworks.pretty")(options "")(descr ""))
+)

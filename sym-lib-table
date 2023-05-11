@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_Espressif_Extra")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/MCU_Espressif_Extra.kicad_sym")(options "")(descr ""))
+  (lib (name "CJ2302")(type "KiCad")(uri "${KIPRJMOD}/standard-libs/symbol/CJ2302.kicad_sym")(options "")(descr ""))
+)
